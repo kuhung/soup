@@ -5,6 +5,7 @@
 ## Credits
 
 * [egotong/nows][nows]
+* [mzlogin/dujitang][dujitang]
 * [jitang.fun](http://jitang.fun/)
 
 ---
@@ -14,3 +15,4 @@
 <div align="center"><img width="192px" height="192px" src="https://kuhungio.me/images/post/social.jpg"/></div>
 
 [nows]: https://github.com/egotong/nows
+[dujitang]: https://github.com/mzlogin/dujitang
